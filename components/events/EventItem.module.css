@@ -1,0 +1,7 @@
+.item {
+  display: flex;
+  background-color: #dfdfdf;
+  margin-bottom: 10px;
+  width: 600px;
+  border-radius: 10px;
+}
